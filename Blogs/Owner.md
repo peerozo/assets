@@ -16,7 +16,7 @@ The positive lucrative reasons for becoming our partners are not just one or two
 
 | | |
 |:------:|:------|
-|<img src = "https://raw.githubusercontent.com/peerozo/assets/master/Blogs/Images/Image%20-%2002.png" width="300" height="300" />  |  *Join the membership of Peerozo for an year at no cost, sit back and relax. Leave the technicalities to us with a constant source of income.* All you have to provide is a reasonable price for an apartment with electricity and water fittings, we will ensure that a good care of your building is being taken by the tenants. We assist you with a digital platform to register any complaints, free of cost To-let platform to advertise your property. We can also dutch in your security and maintenance infrastructure, and assist you 24 x 7 with a carehub|
+|<img src = "https://raw.githubusercontent.com/peerozo/assets/master/Blogs/Images/Image%20-%2002.png" width="1200" />  |  *Join the membership of Peerozo for an year at no cost, sit back and relax. Leave the technicalities to us with a constant source of income.* All you have to provide is a reasonable price for an apartment with electricity and water fittings, we will ensure that a good care of your building is being taken by the tenants. We assist you with a digital platform to register any complaints, free of cost To-let platform to advertise your property. We can also dutch in your security and maintenance infrastructure, and assist you 24 x 7 with a carehub|
 
 
 *Peerozo’s commitment is to provide the top-notch tech based, high quality solutions with transparency without any hassle. The experience will make you our customer forever!*
