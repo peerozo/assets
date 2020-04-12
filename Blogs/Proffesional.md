@@ -12,7 +12,7 @@ Isn’t it difficult going to a new city, settling in a new life? Peerozo has go
 These issues to tackle along with office work make life burdensome. Peerozo's digital solutions not only extend all services in one place but also at a very reasonable price.
 
 ### Centralization of services made life easier
-![Feature Image](https://github.com/peerozo/assets/blob/master/Blogs/Images/Image%20-%2004.jpg?raw=true)
+<img src = "https://github.com/peerozo/assets/blob/master/Blogs/Images/Image%20-%2004.jpg?raw=true" width="1200"/>
 Luxury living at a relatively low price with all amenities at one door is what youth needs. Currently, there are a lot of Brokers out there in the market, charging you money for a limited flat/Home option, and leaving you with no basic amenities ensured. But the centralized system of the ozo (home) provides security, laundry, fooding, furnishings, and maintenance all at a single trusted platform and wide range of services:
 
 | | |
