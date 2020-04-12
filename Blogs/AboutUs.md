@@ -1,0 +1,14 @@
+# About Us [Peerozo]
+
+![Intro](https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?cs=srgb&dl=top-view-photo-of-people-near-wooden-table-3183150.jpg&fm=jpg)
+
+### A warm hello from Peerozo's team!
+We are a tech-based startup mainly aiming to solve problems faced by students in hostels. We are committed to direct the hostel culture towards a more comfortable home, upgrading the style of living with amenities you deserve. **Quality living space, Food, Management, and Security** are the four pillars for a complete home away from home, and our mission is to provide the best quality of all four!
+
+#### The Team
+> *The team is a perfect blend of technology, experience, business and strategy background from renowned institutions of India, capable of holding on to the promises we make. We have been in your shoes, leaving our hometown and settling into an environment completely out of the comfort zone. Through this startup, we strive to make this confrontation trouble-free for you through the conjunction of the tech and physical presence-based solutions.*
+
+| | |
+|:------:|:-------|
+|<img src = "https://github.com/peerozo/assets/blob/master/Blogs/Images/Image%20-%2007.png" width = "1000"/> | We offer a package full of hassle-free and smooth experience of to-let service for our housing partners, peerozo takes the responsibility of furnishing and maintaining the property, ensuring a smooth flow of rent in time.|
+|<img src = "https://github.com/peerozo/assets/blob/master/Blogs/Images/Image%20-%2008.png" width = "1000"/> |For our customers, we supply the completely furnished home with their peer group close to their institutions along with the best quality food, from our very Foodozo brand. From the security of the building to parent connect for students, from attendant to solve problems to help desk for maintenance issues, we will help your transition from home to “the home away from home”
