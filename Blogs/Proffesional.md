@@ -14,12 +14,9 @@ These issues to tackle along with office work make life burdensome. Peerozo's di
 ### Centralization of services made life easier
 ![Feature Image](https://github.com/peerozo/assets/blob/master/Blogs/Images/Image%20-%2004.jpg?raw=true)
 Luxury living at a relatively low price with all amenities at one door is what youth needs. Currently, there are a lot of Brokers out there in the market, charging you money for a limited flat/Home option, and leaving you with no basic amenities ensured. But the centralized system of the ozo (home) provides security, laundry, fooding, furnishings, and maintenance all at a single trusted platform and wide range of services:
-![](https://github.com/peerozo/assets/blob/master/Blogs/Images/Image%20-%2006.png?raw=true)
->Each Flat at Peerozo’s to-let listings goes through a strict procedure for being qualified to be listed down. <br/>
->Our Foodozo section of services established specially for good quality meals in time is world-class. <br/>
->The management team in every city handles every complaint registered digitally in no time. <br/>
->Security in the building, laundry and cleaning services will impress you for sure.<br/>
->No broker deals ensured.<br/>
->Peerozo’s policy prioritizes providing you home near the workplace with your peer group, we will form the living-cluster near your workplace.<br/>
+
+| | |
+|:-----|------:|
+|<ul><li>Each Flat at Peerozo’s to-let listings goes through a strict procedure for being qualified to be listed down.</li><li>Our Foodozo section of services established specially for good quality meals in time is world-class.</li><li>The management team in every city handles every complaint registered digitally in no time.</li><li>Security in the building, laundry and cleaning services will impress you for sure.</li><li>No broker deals ensured.</li><li>Peerozo’s policy prioritizes providing you home near the workplace with your peer group, we will form the Peerozo-cluster near your workplace.</li></ul>|<img src = "https://github.com/peerozo/assets/blob/master/Blogs/Images/Image%20-%2006.png?raw=true" width = "400"/>|
 
 ***To choose from the pool of options and explore the prices, have a look at the site. Your presence is awaited :)***
