@@ -8,7 +8,7 @@ Student life is the most difficult, coming out of the protective shell of parent
 ### *Common troubles in hostel life*
 | | |
 |:-----|------:|
-|<ul><li>Bad quality, unhygienic or tasteless food.</li><li>Frequent complications with the property owner.</li><li>Room cleanliness and maintenance issues of furniture.</li><li>Security not provided</li><li>Complaints registered aren’t taken into account.</li><li>High Prices</li></ul>|<img src = "https://images.pexels.com/photos/941693/pexels-photo-941693.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width = "400"/>|
+|<ul><li>Bad quality, unhygienic or tasteless food.</li><li>Frequent complications with the property owner.</li><li>Room cleanliness and maintenance issues of furniture.</li><li>Security not provided</li><li>Complaints registered aren’t taken into account.</li><li>High Prices</li></ul>|<img src = "https://github.com/peerozo/assets/blob/master/Blogs/Images/Image%20-%2003.png" width = "400"/>|
 
 How about we solve all your problems, eradicating the hostel system with a new digital and centralized solution? 
 
